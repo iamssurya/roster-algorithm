@@ -1,4 +1,4 @@
-# ROSTER ALGORITHM [![BuildStatus](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)](https://travis-ci.org/travis-ci/travis-web)
+# ROSTER ALGORITHM [![BuildStatus](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)](https://travis-ci.org/travis-ci/travis-web) [![CircleCI](https://circleci.com/gh/iamssurya/roster-algorithm/tree/master.svg?style=svg)](https://circleci.com/gh/iamssurya/roster-algorithm/tree/master)
 
 Simple Algorithm to Generate Roster for your team
 
