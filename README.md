@@ -5,6 +5,13 @@ Simple Algorithm to Generate Roster for your team
 ## DEMO
 https://plnkr.co/edit/kk7tcf?p=preview
 
+## FEATURES
+* Generates Roster for any number of weeks(can be specified).
+* Any number of shifts can be provided.
+* Define frequency of shift rotation.
+* Define shuffle intensity.
+* Define probability of different shifts for members.
+
 
 ## DATA
 
