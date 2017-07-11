@@ -1,4 +1,5 @@
 # ROSTER ALGORITHM
+[![Build Status](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)](https://travis-ci.org/travis-ci/travis-web)
 Simple Algorithm to Generate Roster for your team
 
 ## DEMO
