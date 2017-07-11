@@ -1,0 +1,28 @@
+{
+  "name": "roster-algorithm",
+  "version": "1.0.0",
+  "description": "Dynamically create roster for team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server",
+    "build": "babel es6 -d js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamssurya/roster-algorithm.git"
+  },
+  "author": "surya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamssurya/roster-algorithm/issues"
+  },
+  "homepage": "https://github.com/iamssurya/roster-algorithm#readme",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0"
+  }
+}
