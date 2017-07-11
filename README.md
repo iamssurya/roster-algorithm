@@ -52,3 +52,19 @@ Now, its time to configure!
   changeFrequency: 2
 }
 ```
+
+### Instantiation
+
+To start with, using the below snippet.
+
+```js
+roster = new Roster(config,data);
+roster.getRosterPlan();
+
+```
+
+
+More Info
+---
+
+ * Send me an email at iamssurya@gmail.com
