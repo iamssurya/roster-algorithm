@@ -1,2 +1,2 @@
-# roster-algorithm
-Generate Roster for a team
+# ROSTER ALGORITHM
+Simple Algorithm to Generate Roster for your team
